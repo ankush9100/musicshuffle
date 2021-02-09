@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Player from './src/components/Player/Player';
-
+import HomeScreen from './src/screens/HomeScreen'
 export const TRACKS = [
   {
     title: 'Stressed Out',
@@ -24,7 +24,8 @@ export const TRACKS = [
 
 export default class App extends Component {
   render() {
-    return <Player tracks={TRACKS} />
+    // return <Player tracks={TRACKS} />
+    return (<HomeScreen />)
   }
 }
 

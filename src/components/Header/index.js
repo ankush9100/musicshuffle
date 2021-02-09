@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     message: {
         flex: 1,
         textAlign: 'center',
-        color: '#000',
+        color: '#fff',
         fontWeight: 'bold',
         fontSize: 10,
     },
