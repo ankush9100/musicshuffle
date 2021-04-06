@@ -246,7 +246,7 @@ onChangeText=(text)=>{
         formatText={this.formatText}
         onSubmitEditing={this.onSubmit}
         numberOfLines={2}
-        value="This is a long text This is a long text This is a long text"
+        value="This is a long"
         onChangeText={(text) => onChangeText(text)}
 
         ref={this.fieldRef}
