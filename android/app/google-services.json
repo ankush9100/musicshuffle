@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1068025092056",
+    "firebase_url": "https://my-college-app-5fcaa.firebaseio.com",
+    "project_id": "my-college-app-5fcaa",
+    "storage_bucket": "my-college-app-5fcaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068025092056:android:2a43841dd5d9f9003c44ad",
+        "android_client_info": {
+          "package_name": "com.ankush.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068025092056-9d7vt9862prp96s1ad2vqh8go3i8l3cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtZD0rzWYKuAKiP30I8mx8WeZKUNCy1-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068025092056-9d7vt9862prp96s1ad2vqh8go3i8l3cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068025092056:android:9ac7266d22723cd93c44ad",
+        "android_client_info": {
+          "package_name": "com.example.admincollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068025092056-9d7vt9862prp96s1ad2vqh8go3i8l3cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtZD0rzWYKuAKiP30I8mx8WeZKUNCy1-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068025092056-9d7vt9862prp96s1ad2vqh8go3i8l3cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068025092056:android:e6e091ce0680277c3c44ad",
+        "android_client_info": {
+          "package_name": "com.musicshuffle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068025092056-9d7vt9862prp96s1ad2vqh8go3i8l3cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtZD0rzWYKuAKiP30I8mx8WeZKUNCy1-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068025092056-9d7vt9862prp96s1ad2vqh8go3i8l3cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
