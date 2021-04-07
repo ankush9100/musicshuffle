@@ -104,6 +104,7 @@ class App extends Component {
         />
         <TouchableOpacity style={styles.btn} onPress={() => this.goToTabs()}>
           <Text style={styles.text}>Start Listening Music Friends</Text>
+          <Text style={styles.text}>Start Listening Music Friends</Text>
         </TouchableOpacity>
       </View>
     );
